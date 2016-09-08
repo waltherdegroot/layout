@@ -12,7 +12,7 @@ Layout moet aan de volgende functionele eisen voldoen:
 * Bij elk nieuws bericht staat een lees meer link. Die opent een nieuwe pagina met een mooi opgemaakt nieuwsbericht
 * Elk artikel heeft een kopje, inleiding, afbeelding en een knop om door te klikken
 * De advertenties aan de zijkant zijn klikbaar en openen een nieuwe link
-* In het menu staan de kopjes Home, Wat is 'mijn hobby' en Nieuwsberichten
+* In het menu staan de kopjes Home, Wat is 'mijn hobby' en Nieuws
 
 ###Technische eisen
 
