@@ -27,7 +27,7 @@ Layout moet aan de volgende technische eisen voldoen:
 * Alle documenten bevatten correcte koppen, paragrafen, lijsten, afbeeldingen en links
 * Alle documenten valideren als correct HTML5, http://validator.w3.org/
 * Alle documenten bevatten een sans serif lettertype
-* **De 'float' wordt alleen gebruikt waar hij voor in het leven is geroepen: het uitleinen van afbeeldingen. Dus niet het uitlijnen van divs, sections etc.**
+* **De 'float' wordt alleen gebruikt waar hij voor in het leven is geroepen: het uitlijnen van afbeeldingen. Dus niet het uitlijnen van divs, sections etc.**
 * Je maakt gebruik van HTML 5 elementen als header, section, article, aside, nav en footer zoals ze bedoelt zijn
 * De positionering van de pagina doe je door gebruik van het **flex weergave type**
 
