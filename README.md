@@ -30,3 +30,9 @@ Layout moet aan de volgende technische eisen voldoen:
 * **De 'float' wordt alleen gebruikt waar hij voor in het leven is geroepen: het uitleinen van afbeeldingen. Dus niet het uitlijnen van divs, sections etc.**
 * Je maakt gebruik van HTML 5 elementen als header, section, article, aside, nav en footer zoals ze bedoelt zijn
 * De positionering van de pagina doe je door gebruik van het **flex weergave type**
+
+### Bronnen
+#### HTML/CSS
+
+* [Wat zijn de nieuwe HTML5 elementen?](http://www.w3schools.com/html/html5_new_elements.asp)
+* [Hoe moet ik met flex display aan de slag?](http://www.w3schools.com/cssref/css3_pr_flex.asp)
