@@ -8,11 +8,11 @@ Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten
 
 Layout moet aan de volgende functionele eisen voldoen:
 
-* Er moet een homepage zijn waarop een kop te vinden is, samen met een menu, een lijst met 5 nieuwsberichten, een balk aan de zijkant met advertenties en een melding aan de onderkant van de pagina
-* Bij elk nieuws bericht staat een lees-meer link. Die opent een nieuwe pagina met een mooi opgemaakt nieuwsbericht
+* Er moet een homepage zijn waarop een kop te vinden is, samen met een menu, een lijst met minimaal 4 nieuwsberichten, een balk aan de zijkant met advertenties en een melding aan de onderkant van de pagina
+* Bij elk nieuws bericht staat een lees-meer link. Die opent een nieuwe pagina met een mooi opgemaakt nieuwsbericht in de zelfde layout
 * Elk artikel heeft een kopje, inleiding, afbeelding en een knop om door te klikken
 * De advertenties aan de zijkant zijn klikbaar en openen een nieuwe link
-* In het menu staan de kopjes Home, Wat is 'mijn hobby' en Nieuws
+* In het menu staan de kopjes Home, Over 'mijn hobby' en Nieuws
 
 ###Technische eisen
 
@@ -35,5 +35,17 @@ Layout moet aan de volgende technische eisen voldoen:
 ### Bronnen
 #### HTML/CSS
 
+* [Voorbeeld webpagina](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home.jpg)
 * [Wat zijn de nieuwe HTML5 elementen?](http://www.w3schools.com/html/html5_new_elements.asp)
 * [Hoe moet ik met flex display aan de slag?](http://www.w3schools.com/cssref/css3_pr_flex.asp)
+
+## Bonus
+
+Wanneer je een mooi nieuwsportaal hebt gemaakt voor jouw favoriete hobby, kun je de website uitbreiden zodat hij ook op een tablet en een mobiel goed zichtbaar is. Hiervoor kun je de stylesheet uitbreiden met 'media queries'. Hierdoor kunnen alle bezoekers jouw nieuwsportaal goed bekijken. Pas per weergave (tablet en mobiel) de flex weergave zo aan dat hij per weergave een iets ander uiterlijk krijgt.
+
+### Bronnen
+#### HTML/CSS
+
+* [Voorbeeld webpagina tablet](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home-tablet.jpg)
+* [Voorbeeld webpagina mobiel](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home-mobiel.jpg)
+* [Hoe gebruik ik een media query?](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
