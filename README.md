@@ -1,6 +1,6 @@
 ## Layout
 
-Tijdens de opdracht Layout ga je een nieuwsportaal maken over jouw favoriete hobby. De opdrachtgever is geïntresseerd in jouw hobby en zou graag meer informatie willen hebben over je hobby. Wat is er nu leuker om dit met nieuwsberichten te doen.
+Tijdens de opdracht Layout ga je een nieuwsportaal maken over jouw favoriete hobby. De opdrachtgever is geïnteresseerd in jouw hobby en zou graag meer informatie willen hebben over je hobby. Wat is er nu leuker om dit met nieuwsberichten te doen.
 
 ###Functionele eisen
 
