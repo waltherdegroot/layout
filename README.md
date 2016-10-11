@@ -37,7 +37,7 @@ Layout moet aan de volgende technische eisen voldoen:
 
 * [Voorbeeld webpagina over auto's](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home.jpg)
 * [Wat zijn de nieuwe HTML5 elementen?](http://www.w3schools.com/html/html5_new_elements.asp)
-* [Hoe moet ik met flex display aan de slag?](http://www.w3schools.com/cssref/css3_pr_flex.asp)
+* [Hoe moet ik met flex display aan de slag?](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Bonus
 
