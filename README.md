@@ -2,7 +2,7 @@
 
 Tijdens de opdracht Layout ga je een nieuwsportaal maken over jouw favoriete hobby. De opdrachtgever is geïnteresseerd in jouw hobby en zou graag meer informatie willen hebben over je hobby. Wat is er nu leuker om dit met nieuwsberichten te doen.
 
-###Functionele eisen
+### Functionele eisen
 
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet kunnen begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
@@ -14,7 +14,7 @@ Layout moet aan de volgende functionele eisen voldoen:
 * De advertenties aan de zijkant zijn klikbaar en openen een nieuwe link
 * In het menu staan de kopjes Home, Over 'mijn hobby' en Nieuws
 
-###Technische eisen
+### Technische eisen
 
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven.
 
